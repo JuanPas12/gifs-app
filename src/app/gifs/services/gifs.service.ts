@@ -1,5 +1,7 @@
 import { Injectable } from '@angular/core';
 
+const GIPHY_API_KEY = '1JHP3Uyn3wDZyH1NhVEvcpmET3Ae12qc';
+
 @Injectable({
   providedIn: 'root',
 })
