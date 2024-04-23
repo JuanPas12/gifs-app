@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient, HttpParams } from '@angular/common/http';
 import { SearchResponse, Gif } from '../interfaces/gifs.interfaces';
 
-const GIPHY_API_KEY = '1JHP3Uyn3wDZyH1NhVEvcpmET3Ae12qc';
+const GIPHY_API_KEY = 'LPojW8IKuD68ZpzTFtJrvNFm6NDumfZx';
 
 @Injectable({
   providedIn: 'root',
